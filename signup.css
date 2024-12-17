@@ -1,0 +1,21 @@
+
+.google-btn img {
+    width: 20px;
+}
+
+.form-control {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+}
+
+label {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
